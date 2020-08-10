@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 9b8f6349636cfc8478d3c1db40b3b96d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blades
+    100002: bullet
+    100004: extra
+    100006: full
+    100008: group2
+    100010: group5
+    100012: group6
+    100014: minigun
+    100016: pCube1
+    100018: pCube10
+    100020: pCube11
+    100022: pCube11 1
+    100024: pCube3
+    100026: pCube4
+    100028: pCube6
+    100030: pCube7
+    100032: pCube8
+    100034: pCube9
+    100036: pCylinder111
+    100038: pCylinder112
+    100040: pCylinder113
+    100042: pCylinder114
+    100044: pCylinder115
+    100046: pCylinder116
+    100048: pCylinder117
+    100050: pCylinder118
+    100052: pCylinder119
+    100054: pCylinder120
+    100056: pCylinder121
+    100058: pCylinder122
+    100060: pCylinder123
+    100062: pCylinder124
+    100064: pCylinder125
+    100066: pCylinder126
+    100068: pCylinder127
+    100070: pCylinder128
+    100072: pCylinder129
+    100074: pCylinder130
+    100076: pCylinder131
+    100078: pCylinder132
+    100080: pCylinder133
+    100082: pCylinder134
+    100084: pCylinder135
+    100086: pCylinder2
+    100088: pCylinder3
+    100090: pCylinder35
+    100092: pCylinder36
+    100094: pCylinder39
+    100096: pCylinder39 1
+    100098: pCylinder41
+    100100: pCylinder41 1
+    100102: pCylinder42
+    100104: pCylinder42 1
+    100106: pCylinder43
+    100108: pCylinder43 1
+    100110: pCylinder44
+    100112: pCylinder45
+    100114: pCylinder46
+    100116: pCylinder47
+    100118: pCylinder5
+    100120: pCylinder50
+    100122: pCylinder51
+    100124: pCylinder52
+    100126: pCylinder53
+    100128: pCylinder6
+    100130: pPipe1
+    100132: pPrism1
+    100134: pPrism2
+    100136: pSphere1
+    100138: pSphere2
+    100140: pSphere2 1
+    100142: pSphere3
+    100144: pSphere3 1
+    100146: pSphere4
+    100148: pSphere4 1
+    100150: pSphere5
+    100152: pSphere5 1
+    100154: rockets
+    100156: rockets1
+    100158: //RootNode
+    100160: transform33
+    100162: transform34
+    100164: transform35
+    100166: transform36
+    100168: wheels
+    400000: blades
+    400002: bullet
+    400004: extra
+    400006: full
+    400008: group2
+    400010: group5
+    400012: group6
+    400014: minigun
+    400016: pCube1
+    400018: pCube10
+    400020: pCube11
+    400022: pCube11 1
+    400024: pCube3
+    400026: pCube4
+    400028: pCube6
+    400030: pCube7
+    400032: pCube8
+    400034: pCube9
+    400036: pCylinder111
+    400038: pCylinder112
+    400040: pCylinder113
+    400042: pCylinder114
+    400044: pCylinder115
+    400046: pCylinder116
+    400048: pCylinder117
+    400050: pCylinder118
+    400052: pCylinder119
+    400054: pCylinder120
+    400056: pCylinder121
+    400058: pCylinder122
+    400060: pCylinder123
+    400062: pCylinder124
+    400064: pCylinder125
+    400066: pCylinder126
+    400068: pCylinder127
+    400070: pCylinder128
+    400072: pCylinder129
+    400074: pCylinder130
+    400076: pCylinder131
+    400078: pCylinder132
+    400080: pCylinder133
+    400082: pCylinder134
+    400084: pCylinder135
+    400086: pCylinder2
+    400088: pCylinder3
+    400090: pCylinder35
+    400092: pCylinder36
+    400094: pCylinder39
+    400096: pCylinder39 1
+    400098: pCylinder41
+    400100: pCylinder41 1
+    400102: pCylinder42
+    400104: pCylinder42 1
+    400106: pCylinder43
+    400108: pCylinder43 1
+    400110: pCylinder44
+    400112: pCylinder45
+    400114: pCylinder46
+    400116: pCylinder47
+    400118: pCylinder5
+    400120: pCylinder50
+    400122: pCylinder51
+    400124: pCylinder52
+    400126: pCylinder53
+    400128: pCylinder6
+    400130: pPipe1
+    400132: pPrism1
+    400134: pPrism2
+    400136: pSphere1
+    400138: pSphere2
+    400140: pSphere2 1
+    400142: pSphere3
+    400144: pSphere3 1
+    400146: pSphere4
+    400148: pSphere4 1
+    400150: pSphere5
+    400152: pSphere5 1
+    400154: rockets
+    400156: rockets1
+    400158: //RootNode
+    400160: transform33
+    400162: transform34
+    400164: transform35
+    400166: transform36
+    400168: wheels
+    2300000: blades
+    2300002: pCube1
+    2300004: pCube10
+    2300006: pCube11
+    2300008: pCube11 1
+    2300010: pCube3
+    2300012: pCube4
+    2300014: pCube6
+    2300016: pCube7
+    2300018: pCube8
+    2300020: pCube9
+    2300022: pCylinder111
+    2300024: pCylinder112
+    2300026: pCylinder113
+    2300028: pCylinder114
+    2300030: pCylinder115
+    2300032: pCylinder116
+    2300034: pCylinder117
+    2300036: pCylinder118
+    2300038: pCylinder119
+    2300040: pCylinder120
+    2300042: pCylinder121
+    2300044: pCylinder122
+    2300046: pCylinder123
+    2300048: pCylinder124
+    2300050: pCylinder125
+    2300052: pCylinder126
+    2300054: pCylinder127
+    2300056: pCylinder128
+    2300058: pCylinder129
+    2300060: pCylinder130
+    2300062: pCylinder131
+    2300064: pCylinder132
+    2300066: pCylinder133
+    2300068: pCylinder134
+    2300070: pCylinder135
+    2300072: pCylinder2
+    2300074: pCylinder3
+    2300076: pCylinder35
+    2300078: pCylinder36
+    2300080: pCylinder39 1
+    2300082: pCylinder41 1
+    2300084: pCylinder42 1
+    2300086: pCylinder43 1
+    2300088: pCylinder44
+    2300090: pCylinder45
+    2300092: pCylinder46
+    2300094: pCylinder47
+    2300096: pCylinder5
+    2300098: pCylinder50
+    2300100: pCylinder51
+    2300102: pCylinder52
+    2300104: pCylinder53
+    2300106: pCylinder6
+    2300108: pPipe1
+    2300110: pPrism1
+    2300112: pPrism2
+    2300114: pSphere1
+    2300116: pSphere2
+    2300118: pSphere2 1
+    2300120: pSphere3
+    2300122: pSphere3 1
+    2300124: pSphere4
+    2300126: pSphere4 1
+    2300128: pSphere5
+    2300130: pSphere5 1
+    3300000: blades
+    3300002: pCube1
+    3300004: pCube10
+    3300006: pCube11
+    3300008: pCube11 1
+    3300010: pCube3
+    3300012: pCube4
+    3300014: pCube6
+    3300016: pCube7
+    3300018: pCube8
+    3300020: pCube9
+    3300022: pCylinder111
+    3300024: pCylinder112
+    3300026: pCylinder113
+    3300028: pCylinder114
+    3300030: pCylinder115
+    3300032: pCylinder116
+    3300034: pCylinder117
+    3300036: pCylinder118
+    3300038: pCylinder119
+    3300040: pCylinder120
+    3300042: pCylinder121
+    3300044: pCylinder122
+    3300046: pCylinder123
+    3300048: pCylinder124
+    3300050: pCylinder125
+    3300052: pCylinder126
+    3300054: pCylinder127
+    3300056: pCylinder128
+    3300058: pCylinder129
+    3300060: pCylinder130
+    3300062: pCylinder131
+    3300064: pCylinder132
+    3300066: pCylinder133
+    3300068: pCylinder134
+    3300070: pCylinder135
+    3300072: pCylinder2
+    3300074: pCylinder3
+    3300076: pCylinder35
+    3300078: pCylinder36
+    3300080: pCylinder39 1
+    3300082: pCylinder41 1
+    3300084: pCylinder42 1
+    3300086: pCylinder43 1
+    3300088: pCylinder44
+    3300090: pCylinder45
+    3300092: pCylinder46
+    3300094: pCylinder47
+    3300096: pCylinder5
+    3300098: pCylinder50
+    3300100: pCylinder51
+    3300102: pCylinder52
+    3300104: pCylinder53
+    3300106: pCylinder6
+    3300108: pPipe1
+    3300110: pPrism1
+    3300112: pPrism2
+    3300114: pSphere1
+    3300116: pSphere2
+    3300118: pSphere2 1
+    3300120: pSphere3
+    3300122: pSphere3 1
+    3300124: pSphere4
+    3300126: pSphere4 1
+    3300128: pSphere5
+    3300130: pSphere5 1
+    4300000: pCube1
+    4300002: pCube3
+    4300004: pCube4
+    4300006: pPrism1
+    4300008: pCylinder2
+    4300010: pCylinder35
+    4300012: pCylinder36
+    4300014: pCube6
+    4300016: pCube7
+    4300018: pSphere1
+    4300020: blades
+    4300022: pCube8
+    4300024: pCylinder52
+    4300026: pCylinder53
+    4300028: pCylinder111
+    4300030: pCylinder112
+    4300032: pCylinder113
+    4300034: pCylinder114
+    4300036: pCylinder115
+    4300038: pCylinder116
+    4300040: pCylinder117
+    4300042: pCylinder118
+    4300044: pCylinder119
+    4300046: pCylinder120
+    4300048: pCylinder121
+    4300050: pCylinder122
+    4300052: pCylinder123
+    4300054: pCylinder124
+    4300056: pCylinder125
+    4300058: pCylinder126
+    4300060: pCylinder127
+    4300062: pCylinder128
+    4300064: pCylinder129
+    4300066: pCylinder130
+    4300068: pCylinder131
+    4300070: pCylinder132
+    4300072: pCylinder133
+    4300074: pCylinder134
+    4300076: pCylinder135
+    4300078: pPipe1
+    4300080: pCylinder6
+    4300082: pCylinder3
+    4300084: pCylinder5
+    4300086: pPrism2
+    4300088: pCylinder44
+    4300090: pCylinder45
+    4300092: pCylinder46
+    4300094: pCylinder47
+    4300096: pCylinder39
+    4300098: pCylinder41
+    4300100: pCylinder42
+    4300102: pCylinder43
+    4300104: pCube10
+    4300106: pCube9
+    4300108: pCylinder51
+    4300110: pCylinder50
+    4300112: pCube11
+    4300114: pSphere4
+    4300116: pSphere5
+    4300118: pSphere2
+    4300120: pSphere3
+    4300122: pCube11
+    4300124: pSphere4
+    4300126: pSphere5
+    4300128: pSphere2
+    4300130: pSphere3
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blades1
+    second: {fileID: 2100000, guid: 8f44bbe84eacd8848a5ff0c286fc03ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bullet1
+    second: {fileID: 2100000, guid: b513e26197f06d4428ec9c487000c6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: b21b59eba46c1f940914fcedab126aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 055d603f71c3e964a81bdf948651a5c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_parts
+    second: {fileID: 2100000, guid: d2b9a7f16eb7c2342ad6d46cc010da71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mainbody
+    second: {fileID: 2100000, guid: 0de4033aaa5d4cf4b85fdb0fce2e9e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missile
+    second: {fileID: 2100000, guid: 648e9480f4c971a40b9ab2e1bdeb2165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: missilepart
+    second: {fileID: 2100000, guid: 07fbb1a118bc6834a8a888fe7c6def4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tyres
+    second: {fileID: 2100000, guid: ef761d94f48c3e34ea8b43787ec04770, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 75
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.75
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

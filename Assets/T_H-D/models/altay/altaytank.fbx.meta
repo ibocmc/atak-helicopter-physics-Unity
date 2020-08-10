@@ -1,0 +1,3298 @@
+fileFormatVersion: 2
+guid: e545861e896c5a34ba67f6da3518eb53
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: backpart
+    100004: "disl\u0131_sag1"
+    100006: "disl\u0131_sag1 1"
+    100008: group139
+    100010: group140
+    100012: group141
+    100014: group142
+    100016: group5
+    100018: group5 1
+    100020: group5 10
+    100022: group5 11
+    100024: group5 12
+    100026: group5 13
+    100028: group5 14
+    100030: group5 15
+    100032: group5 2
+    100034: group5 3
+    100036: group5 4
+    100038: group5 5
+    100040: group5 6
+    100042: group5 7
+    100044: group5 8
+    100046: group5 9
+    100048: group6
+    100050: group6 1
+    100052: group6 10
+    100054: group6 11
+    100056: group6 12
+    100058: group6 13
+    100060: group6 2
+    100062: group6 3
+    100064: group6 4
+    100066: group6 5
+    100068: group6 6
+    100070: group6 7
+    100072: group6 8
+    100074: group6 9
+    100076: group8
+    100078: group8 1
+    100080: MASH2_ReproMesh
+    100082: MASH2_ReproMesh_MeshPart0
+    100084: MASH2_ReproMesh_MeshPart1
+    100086: MASH_ReproMesh
+    100088: MASH_ReproMesh_MeshPart0
+    100090: MASH_ReproMesh_MeshPart1
+    100092: mgfull
+    100094: mgown
+    100096: middle
+    100098: namlu
+    100100: pCube1
+    100102: pCube10
+    100104: pCube12
+    100106: pCube13
+    100108: pCube14
+    100110: pCube15
+    100112: pCube16
+    100114: pCube17
+    100116: pCube18
+    100118: pCube19
+    100120: pCube20
+    100122: pCube21
+    100124: pCube22
+    100126: pCube23
+    100128: pCube236
+    100130: pCube24
+    100132: pCube26
+    100134: pCube27
+    100136: pCube28
+    100138: pCube29
+    100140: pCube3
+    100142: pCube30
+    100144: pCube31
+    100146: pCube32
+    100148: pCube33
+    100150: pCube34
+    100152: pCube35
+    100154: pCube36
+    100156: pCube37
+    100158: pCube38
+    100160: pCube39
+    100162: pCube4
+    100164: pCube40
+    100166: pCube41
+    100168: pCube42
+    100170: pCube43
+    100172: pCube5
+    100174: pCube8
+    100176: pCube9
+    100178: pCylinder1
+    100180: pCylinder10
+    100182: pCylinder11
+    100184: pCylinder15
+    100186: pCylinder2
+    100188: pCylinder29
+    100190: pCylinder30
+    100192: pCylinder31
+    100194: pCylinder6
+    100196: pCylinder6 1
+    100198: pCylinder6 10
+    100200: pCylinder6 11
+    100202: pCylinder6 12
+    100204: pCylinder6 13
+    100206: pCylinder6 14
+    100208: pCylinder6 15
+    100210: pCylinder6 2
+    100212: pCylinder6 3
+    100214: pCylinder6 4
+    100216: pCylinder6 5
+    100218: pCylinder6 6
+    100220: pCylinder6 7
+    100222: pCylinder6 8
+    100224: pCylinder6 9
+    100226: pCylinder7
+    100228: pCylinder7 1
+    100230: pCylinder9
+    100232: polySurface2
+    100234: polySurface3
+    100236: polySurface4
+    100238: pPipe1
+    100240: pPipe2
+    100242: pPipe3
+    100244: pPipe4
+    100246: pPipe5
+    100248: pPipe6
+    100250: pPrism1
+    100252: pPrism11
+    100254: pPrism11 1
+    100256: pPrism11 10
+    100258: pPrism11 11
+    100260: pPrism11 12
+    100262: pPrism11 13
+    100264: pPrism11 14
+    100266: pPrism11 15
+    100268: pPrism11 16
+    100270: pPrism11 17
+    100272: pPrism11 18
+    100274: pPrism11 19
+    100276: pPrism11 2
+    100278: pPrism11 20
+    100280: pPrism11 21
+    100282: pPrism11 22
+    100284: pPrism11 23
+    100286: pPrism11 24
+    100288: pPrism11 25
+    100290: pPrism11 26
+    100292: pPrism11 27
+    100294: pPrism11 28
+    100296: pPrism11 29
+    100298: pPrism11 3
+    100300: pPrism11 30
+    100302: pPrism11 31
+    100304: pPrism11 32
+    100306: pPrism11 33
+    100308: pPrism11 4
+    100310: pPrism11 5
+    100312: pPrism11 6
+    100314: pPrism11 7
+    100316: pPrism11 8
+    100318: pPrism11 9
+    100320: pPrism13
+    100322: pPrism13 1
+    100324: pPrism13 10
+    100326: pPrism13 11
+    100328: pPrism13 12
+    100330: pPrism13 13
+    100332: pPrism13 14
+    100334: pPrism13 15
+    100336: pPrism13 16
+    100338: pPrism13 17
+    100340: pPrism13 18
+    100342: pPrism13 19
+    100344: pPrism13 2
+    100346: pPrism13 20
+    100348: pPrism13 21
+    100350: pPrism13 22
+    100352: pPrism13 23
+    100354: pPrism13 24
+    100356: pPrism13 25
+    100358: pPrism13 26
+    100360: pPrism13 27
+    100362: pPrism13 28
+    100364: pPrism13 29
+    100366: pPrism13 3
+    100368: pPrism13 30
+    100370: pPrism13 31
+    100372: pPrism13 32
+    100374: pPrism13 33
+    100376: pPrism13 4
+    100378: pPrism13 5
+    100380: pPrism13 6
+    100382: pPrism13 7
+    100384: pPrism13 8
+    100386: pPrism13 9
+    100388: pPrism1439
+    100390: pPrism15
+    100392: pPrism15 1
+    100394: pPrism15 10
+    100396: pPrism15 11
+    100398: pPrism15 12
+    100400: pPrism15 13
+    100402: pPrism15 14
+    100404: pPrism15 15
+    100406: pPrism15 16
+    100408: pPrism15 17
+    100410: pPrism15 18
+    100412: pPrism15 19
+    100414: pPrism15 2
+    100416: pPrism15 20
+    100418: pPrism15 21
+    100420: pPrism15 22
+    100422: pPrism15 23
+    100424: pPrism15 24
+    100426: pPrism15 25
+    100428: pPrism15 26
+    100430: pPrism15 27
+    100432: pPrism15 28
+    100434: pPrism15 29
+    100436: pPrism15 3
+    100438: pPrism15 30
+    100440: pPrism15 31
+    100442: pPrism15 32
+    100444: pPrism15 33
+    100446: pPrism15 4
+    100448: pPrism15 5
+    100450: pPrism15 6
+    100452: pPrism15 7
+    100454: pPrism15 8
+    100456: pPrism15 9
+    100458: pPrism17
+    100460: pPrism17 1
+    100462: pPrism17 10
+    100464: pPrism17 11
+    100466: pPrism17 12
+    100468: pPrism17 13
+    100470: pPrism17 14
+    100472: pPrism17 15
+    100474: pPrism17 16
+    100476: pPrism17 17
+    100478: pPrism17 18
+    100480: pPrism17 19
+    100482: pPrism17 2
+    100484: pPrism17 20
+    100486: pPrism17 21
+    100488: pPrism17 22
+    100490: pPrism17 23
+    100492: pPrism17 24
+    100494: pPrism17 25
+    100496: pPrism17 26
+    100498: pPrism17 27
+    100500: pPrism17 28
+    100502: pPrism17 29
+    100504: pPrism17 3
+    100506: pPrism17 30
+    100508: pPrism17 31
+    100510: pPrism17 32
+    100512: pPrism17 33
+    100514: pPrism17 4
+    100516: pPrism17 5
+    100518: pPrism17 6
+    100520: pPrism17 7
+    100522: pPrism17 8
+    100524: pPrism17 9
+    100526: pPrism19
+    100528: pPrism19 1
+    100530: pPrism19 10
+    100532: pPrism19 11
+    100534: pPrism19 12
+    100536: pPrism19 13
+    100538: pPrism19 14
+    100540: pPrism19 15
+    100542: pPrism19 16
+    100544: pPrism19 17
+    100546: pPrism19 18
+    100548: pPrism19 19
+    100550: pPrism19 2
+    100552: pPrism19 20
+    100554: pPrism19 21
+    100556: pPrism19 22
+    100558: pPrism19 23
+    100560: pPrism19 24
+    100562: pPrism19 25
+    100564: pPrism19 26
+    100566: pPrism19 27
+    100568: pPrism19 28
+    100570: pPrism19 29
+    100572: pPrism19 3
+    100574: pPrism19 30
+    100576: pPrism19 31
+    100578: pPrism19 32
+    100580: pPrism19 33
+    100582: pPrism19 4
+    100584: pPrism19 5
+    100586: pPrism19 6
+    100588: pPrism19 7
+    100590: pPrism19 8
+    100592: pPrism19 9
+    100594: pPrism21
+    100596: pPrism21 1
+    100598: pPrism21 10
+    100600: pPrism21 11
+    100602: pPrism21 12
+    100604: pPrism21 13
+    100606: pPrism21 14
+    100608: pPrism21 15
+    100610: pPrism21 16
+    100612: pPrism21 17
+    100614: pPrism21 18
+    100616: pPrism21 19
+    100618: pPrism21 2
+    100620: pPrism21 20
+    100622: pPrism21 21
+    100624: pPrism21 22
+    100626: pPrism21 23
+    100628: pPrism21 24
+    100630: pPrism21 25
+    100632: pPrism21 26
+    100634: pPrism21 27
+    100636: pPrism21 28
+    100638: pPrism21 29
+    100640: pPrism21 3
+    100642: pPrism21 30
+    100644: pPrism21 31
+    100646: pPrism21 32
+    100648: pPrism21 33
+    100650: pPrism21 4
+    100652: pPrism21 5
+    100654: pPrism21 6
+    100656: pPrism21 7
+    100658: pPrism21 8
+    100660: pPrism21 9
+    100662: pPrism22
+    100664: pPrism22 1
+    100666: pPrism23
+    100668: pPrism23 1
+    100670: pPrism24
+    100672: pPrism24 1
+    100674: pPrism25
+    100676: pPrism25 1
+    100678: pPrism26
+    100680: pPrism26 1
+    100682: pPrism27
+    100684: pPrism27 1
+    100686: pPrism28
+    100688: pPrism28 1
+    100690: pPrism29
+    100692: pPrism29 1
+    100694: pPrism30
+    100696: pPrism30 1
+    100698: pPrism31
+    100700: pPrism32
+    100702: pPrism33
+    100704: pPrism34
+    100706: pPrism5
+    100708: pPrism5 1
+    100710: pPrism5 10
+    100712: pPrism5 11
+    100714: pPrism5 12
+    100716: pPrism5 13
+    100718: pPrism5 14
+    100720: pPrism5 15
+    100722: pPrism5 16
+    100724: pPrism5 17
+    100726: pPrism5 18
+    100728: pPrism5 19
+    100730: pPrism5 2
+    100732: pPrism5 20
+    100734: pPrism5 21
+    100736: pPrism5 22
+    100738: pPrism5 23
+    100740: pPrism5 24
+    100742: pPrism5 25
+    100744: pPrism5 26
+    100746: pPrism5 27
+    100748: pPrism5 28
+    100750: pPrism5 29
+    100752: pPrism5 3
+    100754: pPrism5 30
+    100756: pPrism5 31
+    100758: pPrism5 32
+    100760: pPrism5 33
+    100762: pPrism5 4
+    100764: pPrism5 5
+    100766: pPrism5 6
+    100768: pPrism5 7
+    100770: pPrism5 8
+    100772: pPrism5 9
+    100774: pPrism7
+    100776: pPrism7 1
+    100778: pPrism7 10
+    100780: pPrism7 11
+    100782: pPrism7 12
+    100784: pPrism7 13
+    100786: pPrism7 14
+    100788: pPrism7 15
+    100790: pPrism7 16
+    100792: pPrism7 17
+    100794: pPrism7 18
+    100796: pPrism7 19
+    100798: pPrism7 2
+    100800: pPrism7 20
+    100802: pPrism7 21
+    100804: pPrism7 22
+    100806: pPrism7 23
+    100808: pPrism7 24
+    100810: pPrism7 25
+    100812: pPrism7 26
+    100814: pPrism7 27
+    100816: pPrism7 28
+    100818: pPrism7 29
+    100820: pPrism7 3
+    100822: pPrism7 30
+    100824: pPrism7 31
+    100826: pPrism7 32
+    100828: pPrism7 33
+    100830: pPrism7 4
+    100832: pPrism7 5
+    100834: pPrism7 6
+    100836: pPrism7 7
+    100838: pPrism7 8
+    100840: pPrism7 9
+    100842: pPrism9
+    100844: pPrism9 1
+    100846: pPrism9 10
+    100848: pPrism9 11
+    100850: pPrism9 12
+    100852: pPrism9 13
+    100854: pPrism9 14
+    100856: pPrism9 15
+    100858: pPrism9 16
+    100860: pPrism9 17
+    100862: pPrism9 18
+    100864: pPrism9 19
+    100866: pPrism9 2
+    100868: pPrism9 20
+    100870: pPrism9 21
+    100872: pPrism9 22
+    100874: pPrism9 23
+    100876: pPrism9 24
+    100878: pPrism9 25
+    100880: pPrism9 26
+    100882: pPrism9 27
+    100884: pPrism9 28
+    100886: pPrism9 29
+    100888: pPrism9 3
+    100890: pPrism9 30
+    100892: pPrism9 31
+    100894: pPrism9 32
+    100896: pPrism9 33
+    100898: pPrism9 4
+    100900: pPrism9 5
+    100902: pPrism9 6
+    100904: pPrism9 7
+    100906: pPrism9 8
+    100908: pPrism9 9
+    100910: TOP
+    100912: top_part
+    100914: toppart
+    100916: toppart 1
+    100918: wheel1
+    100920: wheel1 1
+    100922: wheel2
+    100924: wheel2 1
+    100926: wheel3
+    100928: wheel3 1
+    100930: wheel4
+    100932: wheel4 1
+    100934: wheel5
+    100936: wheel5 1
+    100938: wheel7
+    100940: wheel7 1
+    100942: wheel7 2
+    100944: wheel7 3
+    100946: wheel8
+    100948: wheel8 1
+    100950: wheel9
+    100952: wheel9 1
+    100954: wheelgroup_ledt
+    100956: wheelgroup_right
+    400000: //RootNode
+    400002: backpart
+    400004: "disl\u0131_sag1"
+    400006: "disl\u0131_sag1 1"
+    400008: group139
+    400010: group140
+    400012: group141
+    400014: group142
+    400016: group5
+    400018: group5 1
+    400020: group5 10
+    400022: group5 11
+    400024: group5 12
+    400026: group5 13
+    400028: group5 14
+    400030: group5 15
+    400032: group5 2
+    400034: group5 3
+    400036: group5 4
+    400038: group5 5
+    400040: group5 6
+    400042: group5 7
+    400044: group5 8
+    400046: group5 9
+    400048: group6
+    400050: group6 1
+    400052: group6 10
+    400054: group6 11
+    400056: group6 12
+    400058: group6 13
+    400060: group6 2
+    400062: group6 3
+    400064: group6 4
+    400066: group6 5
+    400068: group6 6
+    400070: group6 7
+    400072: group6 8
+    400074: group6 9
+    400076: group8
+    400078: group8 1
+    400080: MASH2_ReproMesh
+    400082: MASH2_ReproMesh_MeshPart0
+    400084: MASH2_ReproMesh_MeshPart1
+    400086: MASH_ReproMesh
+    400088: MASH_ReproMesh_MeshPart0
+    400090: MASH_ReproMesh_MeshPart1
+    400092: mgfull
+    400094: mgown
+    400096: middle
+    400098: namlu
+    400100: pCube1
+    400102: pCube10
+    400104: pCube12
+    400106: pCube13
+    400108: pCube14
+    400110: pCube15
+    400112: pCube16
+    400114: pCube17
+    400116: pCube18
+    400118: pCube19
+    400120: pCube20
+    400122: pCube21
+    400124: pCube22
+    400126: pCube23
+    400128: pCube236
+    400130: pCube24
+    400132: pCube26
+    400134: pCube27
+    400136: pCube28
+    400138: pCube29
+    400140: pCube3
+    400142: pCube30
+    400144: pCube31
+    400146: pCube32
+    400148: pCube33
+    400150: pCube34
+    400152: pCube35
+    400154: pCube36
+    400156: pCube37
+    400158: pCube38
+    400160: pCube39
+    400162: pCube4
+    400164: pCube40
+    400166: pCube41
+    400168: pCube42
+    400170: pCube43
+    400172: pCube5
+    400174: pCube8
+    400176: pCube9
+    400178: pCylinder1
+    400180: pCylinder10
+    400182: pCylinder11
+    400184: pCylinder15
+    400186: pCylinder2
+    400188: pCylinder29
+    400190: pCylinder30
+    400192: pCylinder31
+    400194: pCylinder6
+    400196: pCylinder6 1
+    400198: pCylinder6 10
+    400200: pCylinder6 11
+    400202: pCylinder6 12
+    400204: pCylinder6 13
+    400206: pCylinder6 14
+    400208: pCylinder6 15
+    400210: pCylinder6 2
+    400212: pCylinder6 3
+    400214: pCylinder6 4
+    400216: pCylinder6 5
+    400218: pCylinder6 6
+    400220: pCylinder6 7
+    400222: pCylinder6 8
+    400224: pCylinder6 9
+    400226: pCylinder7
+    400228: pCylinder7 1
+    400230: pCylinder9
+    400232: polySurface2
+    400234: polySurface3
+    400236: polySurface4
+    400238: pPipe1
+    400240: pPipe2
+    400242: pPipe3
+    400244: pPipe4
+    400246: pPipe5
+    400248: pPipe6
+    400250: pPrism1
+    400252: pPrism11
+    400254: pPrism11 1
+    400256: pPrism11 10
+    400258: pPrism11 11
+    400260: pPrism11 12
+    400262: pPrism11 13
+    400264: pPrism11 14
+    400266: pPrism11 15
+    400268: pPrism11 16
+    400270: pPrism11 17
+    400272: pPrism11 18
+    400274: pPrism11 19
+    400276: pPrism11 2
+    400278: pPrism11 20
+    400280: pPrism11 21
+    400282: pPrism11 22
+    400284: pPrism11 23
+    400286: pPrism11 24
+    400288: pPrism11 25
+    400290: pPrism11 26
+    400292: pPrism11 27
+    400294: pPrism11 28
+    400296: pPrism11 29
+    400298: pPrism11 3
+    400300: pPrism11 30
+    400302: pPrism11 31
+    400304: pPrism11 32
+    400306: pPrism11 33
+    400308: pPrism11 4
+    400310: pPrism11 5
+    400312: pPrism11 6
+    400314: pPrism11 7
+    400316: pPrism11 8
+    400318: pPrism11 9
+    400320: pPrism13
+    400322: pPrism13 1
+    400324: pPrism13 10
+    400326: pPrism13 11
+    400328: pPrism13 12
+    400330: pPrism13 13
+    400332: pPrism13 14
+    400334: pPrism13 15
+    400336: pPrism13 16
+    400338: pPrism13 17
+    400340: pPrism13 18
+    400342: pPrism13 19
+    400344: pPrism13 2
+    400346: pPrism13 20
+    400348: pPrism13 21
+    400350: pPrism13 22
+    400352: pPrism13 23
+    400354: pPrism13 24
+    400356: pPrism13 25
+    400358: pPrism13 26
+    400360: pPrism13 27
+    400362: pPrism13 28
+    400364: pPrism13 29
+    400366: pPrism13 3
+    400368: pPrism13 30
+    400370: pPrism13 31
+    400372: pPrism13 32
+    400374: pPrism13 33
+    400376: pPrism13 4
+    400378: pPrism13 5
+    400380: pPrism13 6
+    400382: pPrism13 7
+    400384: pPrism13 8
+    400386: pPrism13 9
+    400388: pPrism1439
+    400390: pPrism15
+    400392: pPrism15 1
+    400394: pPrism15 10
+    400396: pPrism15 11
+    400398: pPrism15 12
+    400400: pPrism15 13
+    400402: pPrism15 14
+    400404: pPrism15 15
+    400406: pPrism15 16
+    400408: pPrism15 17
+    400410: pPrism15 18
+    400412: pPrism15 19
+    400414: pPrism15 2
+    400416: pPrism15 20
+    400418: pPrism15 21
+    400420: pPrism15 22
+    400422: pPrism15 23
+    400424: pPrism15 24
+    400426: pPrism15 25
+    400428: pPrism15 26
+    400430: pPrism15 27
+    400432: pPrism15 28
+    400434: pPrism15 29
+    400436: pPrism15 3
+    400438: pPrism15 30
+    400440: pPrism15 31
+    400442: pPrism15 32
+    400444: pPrism15 33
+    400446: pPrism15 4
+    400448: pPrism15 5
+    400450: pPrism15 6
+    400452: pPrism15 7
+    400454: pPrism15 8
+    400456: pPrism15 9
+    400458: pPrism17
+    400460: pPrism17 1
+    400462: pPrism17 10
+    400464: pPrism17 11
+    400466: pPrism17 12
+    400468: pPrism17 13
+    400470: pPrism17 14
+    400472: pPrism17 15
+    400474: pPrism17 16
+    400476: pPrism17 17
+    400478: pPrism17 18
+    400480: pPrism17 19
+    400482: pPrism17 2
+    400484: pPrism17 20
+    400486: pPrism17 21
+    400488: pPrism17 22
+    400490: pPrism17 23
+    400492: pPrism17 24
+    400494: pPrism17 25
+    400496: pPrism17 26
+    400498: pPrism17 27
+    400500: pPrism17 28
+    400502: pPrism17 29
+    400504: pPrism17 3
+    400506: pPrism17 30
+    400508: pPrism17 31
+    400510: pPrism17 32
+    400512: pPrism17 33
+    400514: pPrism17 4
+    400516: pPrism17 5
+    400518: pPrism17 6
+    400520: pPrism17 7
+    400522: pPrism17 8
+    400524: pPrism17 9
+    400526: pPrism19
+    400528: pPrism19 1
+    400530: pPrism19 10
+    400532: pPrism19 11
+    400534: pPrism19 12
+    400536: pPrism19 13
+    400538: pPrism19 14
+    400540: pPrism19 15
+    400542: pPrism19 16
+    400544: pPrism19 17
+    400546: pPrism19 18
+    400548: pPrism19 19
+    400550: pPrism19 2
+    400552: pPrism19 20
+    400554: pPrism19 21
+    400556: pPrism19 22
+    400558: pPrism19 23
+    400560: pPrism19 24
+    400562: pPrism19 25
+    400564: pPrism19 26
+    400566: pPrism19 27
+    400568: pPrism19 28
+    400570: pPrism19 29
+    400572: pPrism19 3
+    400574: pPrism19 30
+    400576: pPrism19 31
+    400578: pPrism19 32
+    400580: pPrism19 33
+    400582: pPrism19 4
+    400584: pPrism19 5
+    400586: pPrism19 6
+    400588: pPrism19 7
+    400590: pPrism19 8
+    400592: pPrism19 9
+    400594: pPrism21
+    400596: pPrism21 1
+    400598: pPrism21 10
+    400600: pPrism21 11
+    400602: pPrism21 12
+    400604: pPrism21 13
+    400606: pPrism21 14
+    400608: pPrism21 15
+    400610: pPrism21 16
+    400612: pPrism21 17
+    400614: pPrism21 18
+    400616: pPrism21 19
+    400618: pPrism21 2
+    400620: pPrism21 20
+    400622: pPrism21 21
+    400624: pPrism21 22
+    400626: pPrism21 23
+    400628: pPrism21 24
+    400630: pPrism21 25
+    400632: pPrism21 26
+    400634: pPrism21 27
+    400636: pPrism21 28
+    400638: pPrism21 29
+    400640: pPrism21 3
+    400642: pPrism21 30
+    400644: pPrism21 31
+    400646: pPrism21 32
+    400648: pPrism21 33
+    400650: pPrism21 4
+    400652: pPrism21 5
+    400654: pPrism21 6
+    400656: pPrism21 7
+    400658: pPrism21 8
+    400660: pPrism21 9
+    400662: pPrism22
+    400664: pPrism22 1
+    400666: pPrism23
+    400668: pPrism23 1
+    400670: pPrism24
+    400672: pPrism24 1
+    400674: pPrism25
+    400676: pPrism25 1
+    400678: pPrism26
+    400680: pPrism26 1
+    400682: pPrism27
+    400684: pPrism27 1
+    400686: pPrism28
+    400688: pPrism28 1
+    400690: pPrism29
+    400692: pPrism29 1
+    400694: pPrism30
+    400696: pPrism30 1
+    400698: pPrism31
+    400700: pPrism32
+    400702: pPrism33
+    400704: pPrism34
+    400706: pPrism5
+    400708: pPrism5 1
+    400710: pPrism5 10
+    400712: pPrism5 11
+    400714: pPrism5 12
+    400716: pPrism5 13
+    400718: pPrism5 14
+    400720: pPrism5 15
+    400722: pPrism5 16
+    400724: pPrism5 17
+    400726: pPrism5 18
+    400728: pPrism5 19
+    400730: pPrism5 2
+    400732: pPrism5 20
+    400734: pPrism5 21
+    400736: pPrism5 22
+    400738: pPrism5 23
+    400740: pPrism5 24
+    400742: pPrism5 25
+    400744: pPrism5 26
+    400746: pPrism5 27
+    400748: pPrism5 28
+    400750: pPrism5 29
+    400752: pPrism5 3
+    400754: pPrism5 30
+    400756: pPrism5 31
+    400758: pPrism5 32
+    400760: pPrism5 33
+    400762: pPrism5 4
+    400764: pPrism5 5
+    400766: pPrism5 6
+    400768: pPrism5 7
+    400770: pPrism5 8
+    400772: pPrism5 9
+    400774: pPrism7
+    400776: pPrism7 1
+    400778: pPrism7 10
+    400780: pPrism7 11
+    400782: pPrism7 12
+    400784: pPrism7 13
+    400786: pPrism7 14
+    400788: pPrism7 15
+    400790: pPrism7 16
+    400792: pPrism7 17
+    400794: pPrism7 18
+    400796: pPrism7 19
+    400798: pPrism7 2
+    400800: pPrism7 20
+    400802: pPrism7 21
+    400804: pPrism7 22
+    400806: pPrism7 23
+    400808: pPrism7 24
+    400810: pPrism7 25
+    400812: pPrism7 26
+    400814: pPrism7 27
+    400816: pPrism7 28
+    400818: pPrism7 29
+    400820: pPrism7 3
+    400822: pPrism7 30
+    400824: pPrism7 31
+    400826: pPrism7 32
+    400828: pPrism7 33
+    400830: pPrism7 4
+    400832: pPrism7 5
+    400834: pPrism7 6
+    400836: pPrism7 7
+    400838: pPrism7 8
+    400840: pPrism7 9
+    400842: pPrism9
+    400844: pPrism9 1
+    400846: pPrism9 10
+    400848: pPrism9 11
+    400850: pPrism9 12
+    400852: pPrism9 13
+    400854: pPrism9 14
+    400856: pPrism9 15
+    400858: pPrism9 16
+    400860: pPrism9 17
+    400862: pPrism9 18
+    400864: pPrism9 19
+    400866: pPrism9 2
+    400868: pPrism9 20
+    400870: pPrism9 21
+    400872: pPrism9 22
+    400874: pPrism9 23
+    400876: pPrism9 24
+    400878: pPrism9 25
+    400880: pPrism9 26
+    400882: pPrism9 27
+    400884: pPrism9 28
+    400886: pPrism9 29
+    400888: pPrism9 3
+    400890: pPrism9 30
+    400892: pPrism9 31
+    400894: pPrism9 32
+    400896: pPrism9 33
+    400898: pPrism9 4
+    400900: pPrism9 5
+    400902: pPrism9 6
+    400904: pPrism9 7
+    400906: pPrism9 8
+    400908: pPrism9 9
+    400910: TOP
+    400912: top_part
+    400914: toppart
+    400916: toppart 1
+    400918: wheel1
+    400920: wheel1 1
+    400922: wheel2
+    400924: wheel2 1
+    400926: wheel3
+    400928: wheel3 1
+    400930: wheel4
+    400932: wheel4 1
+    400934: wheel5
+    400936: wheel5 1
+    400938: wheel7
+    400940: wheel7 1
+    400942: wheel7 2
+    400944: wheel7 3
+    400946: wheel8
+    400948: wheel8 1
+    400950: wheel9
+    400952: wheel9 1
+    400954: wheelgroup_ledt
+    400956: wheelgroup_right
+    2300000: MASH2_ReproMesh_MeshPart0
+    2300002: MASH2_ReproMesh_MeshPart1
+    2300004: MASH_ReproMesh_MeshPart0
+    2300006: MASH_ReproMesh_MeshPart1
+    2300008: namlu
+    2300010: pCube1
+    2300012: pCube10
+    2300014: pCube12
+    2300016: pCube13
+    2300018: pCube14
+    2300020: pCube15
+    2300022: pCube16
+    2300024: pCube17
+    2300026: pCube18
+    2300028: pCube19
+    2300030: pCube20
+    2300032: pCube21
+    2300034: pCube22
+    2300036: pCube23
+    2300038: pCube236
+    2300040: pCube24
+    2300042: pCube26
+    2300044: pCube27
+    2300046: pCube28
+    2300048: pCube29
+    2300050: pCube3
+    2300052: pCube30
+    2300054: pCube31
+    2300056: pCube32
+    2300058: pCube33
+    2300060: pCube34
+    2300062: pCube35
+    2300064: pCube36
+    2300066: pCube37
+    2300068: pCube38
+    2300070: pCube39
+    2300072: pCube4
+    2300074: pCube40
+    2300076: pCube41
+    2300078: pCube42
+    2300080: pCube43
+    2300082: pCube5
+    2300084: pCube8
+    2300086: pCube9
+    2300088: pCylinder1
+    2300090: pCylinder10
+    2300092: pCylinder11
+    2300094: pCylinder15
+    2300096: pCylinder2
+    2300098: pCylinder29
+    2300100: pCylinder30
+    2300102: pCylinder31
+    2300104: pCylinder6
+    2300106: pCylinder6 1
+    2300108: pCylinder6 10
+    2300110: pCylinder6 11
+    2300112: pCylinder6 12
+    2300114: pCylinder6 13
+    2300116: pCylinder6 14
+    2300118: pCylinder6 15
+    2300120: pCylinder6 2
+    2300122: pCylinder6 3
+    2300124: pCylinder6 4
+    2300126: pCylinder6 5
+    2300128: pCylinder6 6
+    2300130: pCylinder6 7
+    2300132: pCylinder6 8
+    2300134: pCylinder6 9
+    2300136: pCylinder7
+    2300138: pCylinder7 1
+    2300140: pCylinder9
+    2300142: polySurface2
+    2300144: polySurface3
+    2300146: polySurface4
+    2300148: pPipe1
+    2300150: pPipe2
+    2300152: pPipe3
+    2300154: pPipe4
+    2300156: pPipe5
+    2300158: pPipe6
+    2300160: pPrism1
+    2300162: pPrism11
+    2300164: pPrism11 1
+    2300166: pPrism11 10
+    2300168: pPrism11 11
+    2300170: pPrism11 12
+    2300172: pPrism11 13
+    2300174: pPrism11 14
+    2300176: pPrism11 15
+    2300178: pPrism11 16
+    2300180: pPrism11 17
+    2300182: pPrism11 18
+    2300184: pPrism11 19
+    2300186: pPrism11 2
+    2300188: pPrism11 20
+    2300190: pPrism11 21
+    2300192: pPrism11 22
+    2300194: pPrism11 23
+    2300196: pPrism11 24
+    2300198: pPrism11 25
+    2300200: pPrism11 26
+    2300202: pPrism11 27
+    2300204: pPrism11 28
+    2300206: pPrism11 29
+    2300208: pPrism11 3
+    2300210: pPrism11 30
+    2300212: pPrism11 31
+    2300214: pPrism11 32
+    2300216: pPrism11 33
+    2300218: pPrism11 4
+    2300220: pPrism11 5
+    2300222: pPrism11 6
+    2300224: pPrism11 7
+    2300226: pPrism11 8
+    2300228: pPrism11 9
+    2300230: pPrism13
+    2300232: pPrism13 1
+    2300234: pPrism13 10
+    2300236: pPrism13 11
+    2300238: pPrism13 12
+    2300240: pPrism13 13
+    2300242: pPrism13 14
+    2300244: pPrism13 15
+    2300246: pPrism13 16
+    2300248: pPrism13 17
+    2300250: pPrism13 18
+    2300252: pPrism13 19
+    2300254: pPrism13 2
+    2300256: pPrism13 20
+    2300258: pPrism13 21
+    2300260: pPrism13 22
+    2300262: pPrism13 23
+    2300264: pPrism13 24
+    2300266: pPrism13 25
+    2300268: pPrism13 26
+    2300270: pPrism13 27
+    2300272: pPrism13 28
+    2300274: pPrism13 29
+    2300276: pPrism13 3
+    2300278: pPrism13 30
+    2300280: pPrism13 31
+    2300282: pPrism13 32
+    2300284: pPrism13 33
+    2300286: pPrism13 4
+    2300288: pPrism13 5
+    2300290: pPrism13 6
+    2300292: pPrism13 7
+    2300294: pPrism13 8
+    2300296: pPrism13 9
+    2300298: pPrism1439
+    2300300: pPrism15
+    2300302: pPrism15 1
+    2300304: pPrism15 10
+    2300306: pPrism15 11
+    2300308: pPrism15 12
+    2300310: pPrism15 13
+    2300312: pPrism15 14
+    2300314: pPrism15 15
+    2300316: pPrism15 16
+    2300318: pPrism15 17
+    2300320: pPrism15 18
+    2300322: pPrism15 19
+    2300324: pPrism15 2
+    2300326: pPrism15 20
+    2300328: pPrism15 21
+    2300330: pPrism15 22
+    2300332: pPrism15 23
+    2300334: pPrism15 24
+    2300336: pPrism15 25
+    2300338: pPrism15 26
+    2300340: pPrism15 27
+    2300342: pPrism15 28
+    2300344: pPrism15 29
+    2300346: pPrism15 3
+    2300348: pPrism15 30
+    2300350: pPrism15 31
+    2300352: pPrism15 32
+    2300354: pPrism15 33
+    2300356: pPrism15 4
+    2300358: pPrism15 5
+    2300360: pPrism15 6
+    2300362: pPrism15 7
+    2300364: pPrism15 8
+    2300366: pPrism15 9
+    2300368: pPrism17
+    2300370: pPrism17 1
+    2300372: pPrism17 10
+    2300374: pPrism17 11
+    2300376: pPrism17 12
+    2300378: pPrism17 13
+    2300380: pPrism17 14
+    2300382: pPrism17 15
+    2300384: pPrism17 16
+    2300386: pPrism17 17
+    2300388: pPrism17 18
+    2300390: pPrism17 19
+    2300392: pPrism17 2
+    2300394: pPrism17 20
+    2300396: pPrism17 21
+    2300398: pPrism17 22
+    2300400: pPrism17 23
+    2300402: pPrism17 24
+    2300404: pPrism17 25
+    2300406: pPrism17 26
+    2300408: pPrism17 27
+    2300410: pPrism17 28
+    2300412: pPrism17 29
+    2300414: pPrism17 3
+    2300416: pPrism17 30
+    2300418: pPrism17 31
+    2300420: pPrism17 32
+    2300422: pPrism17 33
+    2300424: pPrism17 4
+    2300426: pPrism17 5
+    2300428: pPrism17 6
+    2300430: pPrism17 7
+    2300432: pPrism17 8
+    2300434: pPrism17 9
+    2300436: pPrism19
+    2300438: pPrism19 1
+    2300440: pPrism19 10
+    2300442: pPrism19 11
+    2300444: pPrism19 12
+    2300446: pPrism19 13
+    2300448: pPrism19 14
+    2300450: pPrism19 15
+    2300452: pPrism19 16
+    2300454: pPrism19 17
+    2300456: pPrism19 18
+    2300458: pPrism19 19
+    2300460: pPrism19 2
+    2300462: pPrism19 20
+    2300464: pPrism19 21
+    2300466: pPrism19 22
+    2300468: pPrism19 23
+    2300470: pPrism19 24
+    2300472: pPrism19 25
+    2300474: pPrism19 26
+    2300476: pPrism19 27
+    2300478: pPrism19 28
+    2300480: pPrism19 29
+    2300482: pPrism19 3
+    2300484: pPrism19 30
+    2300486: pPrism19 31
+    2300488: pPrism19 32
+    2300490: pPrism19 33
+    2300492: pPrism19 4
+    2300494: pPrism19 5
+    2300496: pPrism19 6
+    2300498: pPrism19 7
+    2300500: pPrism19 8
+    2300502: pPrism19 9
+    2300504: pPrism21
+    2300506: pPrism21 1
+    2300508: pPrism21 10
+    2300510: pPrism21 11
+    2300512: pPrism21 12
+    2300514: pPrism21 13
+    2300516: pPrism21 14
+    2300518: pPrism21 15
+    2300520: pPrism21 16
+    2300522: pPrism21 17
+    2300524: pPrism21 18
+    2300526: pPrism21 19
+    2300528: pPrism21 2
+    2300530: pPrism21 20
+    2300532: pPrism21 21
+    2300534: pPrism21 22
+    2300536: pPrism21 23
+    2300538: pPrism21 24
+    2300540: pPrism21 25
+    2300542: pPrism21 26
+    2300544: pPrism21 27
+    2300546: pPrism21 28
+    2300548: pPrism21 29
+    2300550: pPrism21 3
+    2300552: pPrism21 30
+    2300554: pPrism21 31
+    2300556: pPrism21 32
+    2300558: pPrism21 33
+    2300560: pPrism21 4
+    2300562: pPrism21 5
+    2300564: pPrism21 6
+    2300566: pPrism21 7
+    2300568: pPrism21 8
+    2300570: pPrism21 9
+    2300572: pPrism22
+    2300574: pPrism22 1
+    2300576: pPrism23
+    2300578: pPrism23 1
+    2300580: pPrism24
+    2300582: pPrism24 1
+    2300584: pPrism25
+    2300586: pPrism25 1
+    2300588: pPrism26
+    2300590: pPrism26 1
+    2300592: pPrism27
+    2300594: pPrism27 1
+    2300596: pPrism28
+    2300598: pPrism28 1
+    2300600: pPrism29
+    2300602: pPrism29 1
+    2300604: pPrism30
+    2300606: pPrism30 1
+    2300608: pPrism31
+    2300610: pPrism32
+    2300612: pPrism33
+    2300614: pPrism34
+    2300616: pPrism5
+    2300618: pPrism5 1
+    2300620: pPrism5 10
+    2300622: pPrism5 11
+    2300624: pPrism5 12
+    2300626: pPrism5 13
+    2300628: pPrism5 14
+    2300630: pPrism5 15
+    2300632: pPrism5 16
+    2300634: pPrism5 17
+    2300636: pPrism5 18
+    2300638: pPrism5 19
+    2300640: pPrism5 2
+    2300642: pPrism5 20
+    2300644: pPrism5 21
+    2300646: pPrism5 22
+    2300648: pPrism5 23
+    2300650: pPrism5 24
+    2300652: pPrism5 25
+    2300654: pPrism5 26
+    2300656: pPrism5 27
+    2300658: pPrism5 28
+    2300660: pPrism5 29
+    2300662: pPrism5 3
+    2300664: pPrism5 30
+    2300666: pPrism5 31
+    2300668: pPrism5 32
+    2300670: pPrism5 33
+    2300672: pPrism5 4
+    2300674: pPrism5 5
+    2300676: pPrism5 6
+    2300678: pPrism5 7
+    2300680: pPrism5 8
+    2300682: pPrism5 9
+    2300684: pPrism7
+    2300686: pPrism7 1
+    2300688: pPrism7 10
+    2300690: pPrism7 11
+    2300692: pPrism7 12
+    2300694: pPrism7 13
+    2300696: pPrism7 14
+    2300698: pPrism7 15
+    2300700: pPrism7 16
+    2300702: pPrism7 17
+    2300704: pPrism7 18
+    2300706: pPrism7 19
+    2300708: pPrism7 2
+    2300710: pPrism7 20
+    2300712: pPrism7 21
+    2300714: pPrism7 22
+    2300716: pPrism7 23
+    2300718: pPrism7 24
+    2300720: pPrism7 25
+    2300722: pPrism7 26
+    2300724: pPrism7 27
+    2300726: pPrism7 28
+    2300728: pPrism7 29
+    2300730: pPrism7 3
+    2300732: pPrism7 30
+    2300734: pPrism7 31
+    2300736: pPrism7 32
+    2300738: pPrism7 33
+    2300740: pPrism7 4
+    2300742: pPrism7 5
+    2300744: pPrism7 6
+    2300746: pPrism7 7
+    2300748: pPrism7 8
+    2300750: pPrism7 9
+    2300752: pPrism9
+    2300754: pPrism9 1
+    2300756: pPrism9 10
+    2300758: pPrism9 11
+    2300760: pPrism9 12
+    2300762: pPrism9 13
+    2300764: pPrism9 14
+    2300766: pPrism9 15
+    2300768: pPrism9 16
+    2300770: pPrism9 17
+    2300772: pPrism9 18
+    2300774: pPrism9 19
+    2300776: pPrism9 2
+    2300778: pPrism9 20
+    2300780: pPrism9 21
+    2300782: pPrism9 22
+    2300784: pPrism9 23
+    2300786: pPrism9 24
+    2300788: pPrism9 25
+    2300790: pPrism9 26
+    2300792: pPrism9 27
+    2300794: pPrism9 28
+    2300796: pPrism9 29
+    2300798: pPrism9 3
+    2300800: pPrism9 30
+    2300802: pPrism9 31
+    2300804: pPrism9 32
+    2300806: pPrism9 33
+    2300808: pPrism9 4
+    2300810: pPrism9 5
+    2300812: pPrism9 6
+    2300814: pPrism9 7
+    2300816: pPrism9 8
+    2300818: pPrism9 9
+    3300000: MASH2_ReproMesh_MeshPart0
+    3300002: MASH2_ReproMesh_MeshPart1
+    3300004: MASH_ReproMesh_MeshPart0
+    3300006: MASH_ReproMesh_MeshPart1
+    3300008: namlu
+    3300010: pCube1
+    3300012: pCube10
+    3300014: pCube12
+    3300016: pCube13
+    3300018: pCube14
+    3300020: pCube15
+    3300022: pCube16
+    3300024: pCube17
+    3300026: pCube18
+    3300028: pCube19
+    3300030: pCube20
+    3300032: pCube21
+    3300034: pCube22
+    3300036: pCube23
+    3300038: pCube236
+    3300040: pCube24
+    3300042: pCube26
+    3300044: pCube27
+    3300046: pCube28
+    3300048: pCube29
+    3300050: pCube3
+    3300052: pCube30
+    3300054: pCube31
+    3300056: pCube32
+    3300058: pCube33
+    3300060: pCube34
+    3300062: pCube35
+    3300064: pCube36
+    3300066: pCube37
+    3300068: pCube38
+    3300070: pCube39
+    3300072: pCube4
+    3300074: pCube40
+    3300076: pCube41
+    3300078: pCube42
+    3300080: pCube43
+    3300082: pCube5
+    3300084: pCube8
+    3300086: pCube9
+    3300088: pCylinder1
+    3300090: pCylinder10
+    3300092: pCylinder11
+    3300094: pCylinder15
+    3300096: pCylinder2
+    3300098: pCylinder29
+    3300100: pCylinder30
+    3300102: pCylinder31
+    3300104: pCylinder6
+    3300106: pCylinder6 1
+    3300108: pCylinder6 10
+    3300110: pCylinder6 11
+    3300112: pCylinder6 12
+    3300114: pCylinder6 13
+    3300116: pCylinder6 14
+    3300118: pCylinder6 15
+    3300120: pCylinder6 2
+    3300122: pCylinder6 3
+    3300124: pCylinder6 4
+    3300126: pCylinder6 5
+    3300128: pCylinder6 6
+    3300130: pCylinder6 7
+    3300132: pCylinder6 8
+    3300134: pCylinder6 9
+    3300136: pCylinder7
+    3300138: pCylinder7 1
+    3300140: pCylinder9
+    3300142: polySurface2
+    3300144: polySurface3
+    3300146: polySurface4
+    3300148: pPipe1
+    3300150: pPipe2
+    3300152: pPipe3
+    3300154: pPipe4
+    3300156: pPipe5
+    3300158: pPipe6
+    3300160: pPrism1
+    3300162: pPrism11
+    3300164: pPrism11 1
+    3300166: pPrism11 10
+    3300168: pPrism11 11
+    3300170: pPrism11 12
+    3300172: pPrism11 13
+    3300174: pPrism11 14
+    3300176: pPrism11 15
+    3300178: pPrism11 16
+    3300180: pPrism11 17
+    3300182: pPrism11 18
+    3300184: pPrism11 19
+    3300186: pPrism11 2
+    3300188: pPrism11 20
+    3300190: pPrism11 21
+    3300192: pPrism11 22
+    3300194: pPrism11 23
+    3300196: pPrism11 24
+    3300198: pPrism11 25
+    3300200: pPrism11 26
+    3300202: pPrism11 27
+    3300204: pPrism11 28
+    3300206: pPrism11 29
+    3300208: pPrism11 3
+    3300210: pPrism11 30
+    3300212: pPrism11 31
+    3300214: pPrism11 32
+    3300216: pPrism11 33
+    3300218: pPrism11 4
+    3300220: pPrism11 5
+    3300222: pPrism11 6
+    3300224: pPrism11 7
+    3300226: pPrism11 8
+    3300228: pPrism11 9
+    3300230: pPrism13
+    3300232: pPrism13 1
+    3300234: pPrism13 10
+    3300236: pPrism13 11
+    3300238: pPrism13 12
+    3300240: pPrism13 13
+    3300242: pPrism13 14
+    3300244: pPrism13 15
+    3300246: pPrism13 16
+    3300248: pPrism13 17
+    3300250: pPrism13 18
+    3300252: pPrism13 19
+    3300254: pPrism13 2
+    3300256: pPrism13 20
+    3300258: pPrism13 21
+    3300260: pPrism13 22
+    3300262: pPrism13 23
+    3300264: pPrism13 24
+    3300266: pPrism13 25
+    3300268: pPrism13 26
+    3300270: pPrism13 27
+    3300272: pPrism13 28
+    3300274: pPrism13 29
+    3300276: pPrism13 3
+    3300278: pPrism13 30
+    3300280: pPrism13 31
+    3300282: pPrism13 32
+    3300284: pPrism13 33
+    3300286: pPrism13 4
+    3300288: pPrism13 5
+    3300290: pPrism13 6
+    3300292: pPrism13 7
+    3300294: pPrism13 8
+    3300296: pPrism13 9
+    3300298: pPrism1439
+    3300300: pPrism15
+    3300302: pPrism15 1
+    3300304: pPrism15 10
+    3300306: pPrism15 11
+    3300308: pPrism15 12
+    3300310: pPrism15 13
+    3300312: pPrism15 14
+    3300314: pPrism15 15
+    3300316: pPrism15 16
+    3300318: pPrism15 17
+    3300320: pPrism15 18
+    3300322: pPrism15 19
+    3300324: pPrism15 2
+    3300326: pPrism15 20
+    3300328: pPrism15 21
+    3300330: pPrism15 22
+    3300332: pPrism15 23
+    3300334: pPrism15 24
+    3300336: pPrism15 25
+    3300338: pPrism15 26
+    3300340: pPrism15 27
+    3300342: pPrism15 28
+    3300344: pPrism15 29
+    3300346: pPrism15 3
+    3300348: pPrism15 30
+    3300350: pPrism15 31
+    3300352: pPrism15 32
+    3300354: pPrism15 33
+    3300356: pPrism15 4
+    3300358: pPrism15 5
+    3300360: pPrism15 6
+    3300362: pPrism15 7
+    3300364: pPrism15 8
+    3300366: pPrism15 9
+    3300368: pPrism17
+    3300370: pPrism17 1
+    3300372: pPrism17 10
+    3300374: pPrism17 11
+    3300376: pPrism17 12
+    3300378: pPrism17 13
+    3300380: pPrism17 14
+    3300382: pPrism17 15
+    3300384: pPrism17 16
+    3300386: pPrism17 17
+    3300388: pPrism17 18
+    3300390: pPrism17 19
+    3300392: pPrism17 2
+    3300394: pPrism17 20
+    3300396: pPrism17 21
+    3300398: pPrism17 22
+    3300400: pPrism17 23
+    3300402: pPrism17 24
+    3300404: pPrism17 25
+    3300406: pPrism17 26
+    3300408: pPrism17 27
+    3300410: pPrism17 28
+    3300412: pPrism17 29
+    3300414: pPrism17 3
+    3300416: pPrism17 30
+    3300418: pPrism17 31
+    3300420: pPrism17 32
+    3300422: pPrism17 33
+    3300424: pPrism17 4
+    3300426: pPrism17 5
+    3300428: pPrism17 6
+    3300430: pPrism17 7
+    3300432: pPrism17 8
+    3300434: pPrism17 9
+    3300436: pPrism19
+    3300438: pPrism19 1
+    3300440: pPrism19 10
+    3300442: pPrism19 11
+    3300444: pPrism19 12
+    3300446: pPrism19 13
+    3300448: pPrism19 14
+    3300450: pPrism19 15
+    3300452: pPrism19 16
+    3300454: pPrism19 17
+    3300456: pPrism19 18
+    3300458: pPrism19 19
+    3300460: pPrism19 2
+    3300462: pPrism19 20
+    3300464: pPrism19 21
+    3300466: pPrism19 22
+    3300468: pPrism19 23
+    3300470: pPrism19 24
+    3300472: pPrism19 25
+    3300474: pPrism19 26
+    3300476: pPrism19 27
+    3300478: pPrism19 28
+    3300480: pPrism19 29
+    3300482: pPrism19 3
+    3300484: pPrism19 30
+    3300486: pPrism19 31
+    3300488: pPrism19 32
+    3300490: pPrism19 33
+    3300492: pPrism19 4
+    3300494: pPrism19 5
+    3300496: pPrism19 6
+    3300498: pPrism19 7
+    3300500: pPrism19 8
+    3300502: pPrism19 9
+    3300504: pPrism21
+    3300506: pPrism21 1
+    3300508: pPrism21 10
+    3300510: pPrism21 11
+    3300512: pPrism21 12
+    3300514: pPrism21 13
+    3300516: pPrism21 14
+    3300518: pPrism21 15
+    3300520: pPrism21 16
+    3300522: pPrism21 17
+    3300524: pPrism21 18
+    3300526: pPrism21 19
+    3300528: pPrism21 2
+    3300530: pPrism21 20
+    3300532: pPrism21 21
+    3300534: pPrism21 22
+    3300536: pPrism21 23
+    3300538: pPrism21 24
+    3300540: pPrism21 25
+    3300542: pPrism21 26
+    3300544: pPrism21 27
+    3300546: pPrism21 28
+    3300548: pPrism21 29
+    3300550: pPrism21 3
+    3300552: pPrism21 30
+    3300554: pPrism21 31
+    3300556: pPrism21 32
+    3300558: pPrism21 33
+    3300560: pPrism21 4
+    3300562: pPrism21 5
+    3300564: pPrism21 6
+    3300566: pPrism21 7
+    3300568: pPrism21 8
+    3300570: pPrism21 9
+    3300572: pPrism22
+    3300574: pPrism22 1
+    3300576: pPrism23
+    3300578: pPrism23 1
+    3300580: pPrism24
+    3300582: pPrism24 1
+    3300584: pPrism25
+    3300586: pPrism25 1
+    3300588: pPrism26
+    3300590: pPrism26 1
+    3300592: pPrism27
+    3300594: pPrism27 1
+    3300596: pPrism28
+    3300598: pPrism28 1
+    3300600: pPrism29
+    3300602: pPrism29 1
+    3300604: pPrism30
+    3300606: pPrism30 1
+    3300608: pPrism31
+    3300610: pPrism32
+    3300612: pPrism33
+    3300614: pPrism34
+    3300616: pPrism5
+    3300618: pPrism5 1
+    3300620: pPrism5 10
+    3300622: pPrism5 11
+    3300624: pPrism5 12
+    3300626: pPrism5 13
+    3300628: pPrism5 14
+    3300630: pPrism5 15
+    3300632: pPrism5 16
+    3300634: pPrism5 17
+    3300636: pPrism5 18
+    3300638: pPrism5 19
+    3300640: pPrism5 2
+    3300642: pPrism5 20
+    3300644: pPrism5 21
+    3300646: pPrism5 22
+    3300648: pPrism5 23
+    3300650: pPrism5 24
+    3300652: pPrism5 25
+    3300654: pPrism5 26
+    3300656: pPrism5 27
+    3300658: pPrism5 28
+    3300660: pPrism5 29
+    3300662: pPrism5 3
+    3300664: pPrism5 30
+    3300666: pPrism5 31
+    3300668: pPrism5 32
+    3300670: pPrism5 33
+    3300672: pPrism5 4
+    3300674: pPrism5 5
+    3300676: pPrism5 6
+    3300678: pPrism5 7
+    3300680: pPrism5 8
+    3300682: pPrism5 9
+    3300684: pPrism7
+    3300686: pPrism7 1
+    3300688: pPrism7 10
+    3300690: pPrism7 11
+    3300692: pPrism7 12
+    3300694: pPrism7 13
+    3300696: pPrism7 14
+    3300698: pPrism7 15
+    3300700: pPrism7 16
+    3300702: pPrism7 17
+    3300704: pPrism7 18
+    3300706: pPrism7 19
+    3300708: pPrism7 2
+    3300710: pPrism7 20
+    3300712: pPrism7 21
+    3300714: pPrism7 22
+    3300716: pPrism7 23
+    3300718: pPrism7 24
+    3300720: pPrism7 25
+    3300722: pPrism7 26
+    3300724: pPrism7 27
+    3300726: pPrism7 28
+    3300728: pPrism7 29
+    3300730: pPrism7 3
+    3300732: pPrism7 30
+    3300734: pPrism7 31
+    3300736: pPrism7 32
+    3300738: pPrism7 33
+    3300740: pPrism7 4
+    3300742: pPrism7 5
+    3300744: pPrism7 6
+    3300746: pPrism7 7
+    3300748: pPrism7 8
+    3300750: pPrism7 9
+    3300752: pPrism9
+    3300754: pPrism9 1
+    3300756: pPrism9 10
+    3300758: pPrism9 11
+    3300760: pPrism9 12
+    3300762: pPrism9 13
+    3300764: pPrism9 14
+    3300766: pPrism9 15
+    3300768: pPrism9 16
+    3300770: pPrism9 17
+    3300772: pPrism9 18
+    3300774: pPrism9 19
+    3300776: pPrism9 2
+    3300778: pPrism9 20
+    3300780: pPrism9 21
+    3300782: pPrism9 22
+    3300784: pPrism9 23
+    3300786: pPrism9 24
+    3300788: pPrism9 25
+    3300790: pPrism9 26
+    3300792: pPrism9 27
+    3300794: pPrism9 28
+    3300796: pPrism9 29
+    3300798: pPrism9 3
+    3300800: pPrism9 30
+    3300802: pPrism9 31
+    3300804: pPrism9 32
+    3300806: pPrism9 33
+    3300808: pPrism9 4
+    3300810: pPrism9 5
+    3300812: pPrism9 6
+    3300814: pPrism9 7
+    3300816: pPrism9 8
+    3300818: pPrism9 9
+    4300000: pCube12
+    4300002: pCube13
+    4300004: pCube14
+    4300006: pCube15
+    4300008: pCube16
+    4300010: pCube17
+    4300012: pCube18
+    4300014: pCube19
+    4300016: pCube20
+    4300018: pCube21
+    4300020: pCube22
+    4300022: pCube23
+    4300024: pCube24
+    4300026: pCylinder29
+    4300028: pCylinder15
+    4300030: pPrism5
+    4300032: pPrism7
+    4300034: pPrism9
+    4300036: pPrism11
+    4300038: pPrism13
+    4300040: pPrism15
+    4300042: pPrism17
+    4300044: pPrism19
+    4300046: pPrism21
+    4300048: pPrism22
+    4300050: pPrism23
+    4300052: pPrism24
+    4300054: pPrism25
+    4300056: pPrism26
+    4300058: pPrism27
+    4300060: pPrism28
+    4300062: pPrism29
+    4300064: pPrism30
+    4300066: pCylinder7
+    4300068: pCylinder6
+    4300070: pPrism5
+    4300072: pPrism7
+    4300074: pPrism9
+    4300076: pPrism11
+    4300078: pPrism13
+    4300080: pPrism15
+    4300082: pPrism17
+    4300084: pPrism19
+    4300086: pPrism21
+    4300088: pPrism5
+    4300090: pPrism7
+    4300092: pPrism9
+    4300094: pPrism11
+    4300096: pPrism13
+    4300098: pPrism15
+    4300100: pPrism17
+    4300102: pPrism19
+    4300104: pPrism21
+    4300106: pCylinder6
+    4300108: pPrism5
+    4300110: pPrism7
+    4300112: pPrism9
+    4300114: pPrism11
+    4300116: pPrism13
+    4300118: pPrism15
+    4300120: pPrism17
+    4300122: pPrism19
+    4300124: pPrism21
+    4300126: pPrism5
+    4300128: pPrism7
+    4300130: pPrism9
+    4300132: pPrism11
+    4300134: pPrism13
+    4300136: pPrism15
+    4300138: pPrism17
+    4300140: pPrism19
+    4300142: pPrism21
+    4300144: pCylinder6
+    4300146: pPrism5
+    4300148: pPrism7
+    4300150: pPrism9
+    4300152: pPrism11
+    4300154: pPrism13
+    4300156: pPrism15
+    4300158: pPrism17
+    4300160: pPrism19
+    4300162: pPrism21
+    4300164: pPrism5
+    4300166: pPrism7
+    4300168: pPrism9
+    4300170: pPrism11
+    4300172: pPrism13
+    4300174: pPrism15
+    4300176: pPrism17
+    4300178: pPrism19
+    4300180: pPrism21
+    4300182: pCylinder6
+    4300184: pPrism5
+    4300186: pPrism7
+    4300188: pPrism9
+    4300190: pPrism11
+    4300192: pPrism13
+    4300194: pPrism15
+    4300196: pPrism17
+    4300198: pPrism19
+    4300200: pPrism21
+    4300202: pPrism5
+    4300204: pPrism7
+    4300206: pPrism9
+    4300208: pPrism11
+    4300210: pPrism13
+    4300212: pPrism15
+    4300214: pPrism17
+    4300216: pPrism19
+    4300218: pPrism21
+    4300220: pCylinder6
+    4300222: pPrism5
+    4300224: pPrism7
+    4300226: pPrism9
+    4300228: pPrism11
+    4300230: pPrism13
+    4300232: pPrism15
+    4300234: pPrism17
+    4300236: pPrism19
+    4300238: pPrism21
+    4300240: pPrism5
+    4300242: pPrism7
+    4300244: pPrism9
+    4300246: pPrism11
+    4300248: pPrism13
+    4300250: pPrism15
+    4300252: pPrism17
+    4300254: pPrism19
+    4300256: pPrism21
+    4300258: pCylinder6
+    4300260: pPrism5
+    4300262: pPrism7
+    4300264: pPrism9
+    4300266: pPrism11
+    4300268: pPrism13
+    4300270: pPrism15
+    4300272: pPrism17
+    4300274: pPrism19
+    4300276: pPrism21
+    4300278: pPrism5
+    4300280: pPrism7
+    4300282: pPrism9
+    4300284: pPrism11
+    4300286: pPrism13
+    4300288: pPrism15
+    4300290: pPrism17
+    4300292: pPrism19
+    4300294: pPrism21
+    4300296: pCylinder6
+    4300298: pPrism5
+    4300300: pPrism7
+    4300302: pPrism9
+    4300304: pPrism11
+    4300306: pPrism13
+    4300308: pPrism15
+    4300310: pPrism17
+    4300312: pPrism19
+    4300314: pPrism21
+    4300316: pPrism5
+    4300318: pPrism7
+    4300320: pPrism9
+    4300322: pPrism11
+    4300324: pPrism13
+    4300326: pPrism15
+    4300328: pPrism17
+    4300330: pPrism19
+    4300332: pPrism21
+    4300334: pCylinder6
+    4300336: pPrism5
+    4300338: pPrism7
+    4300340: pPrism9
+    4300342: pPrism11
+    4300344: pPrism13
+    4300346: pPrism15
+    4300348: pPrism17
+    4300350: pPrism19
+    4300352: pPrism21
+    4300354: pPrism21
+    4300356: pPrism19
+    4300358: pPrism17
+    4300360: pPrism15
+    4300362: pPrism13
+    4300364: pPrism11
+    4300366: pPrism9
+    4300368: pPrism7
+    4300370: pPrism5
+    4300372: pPrism5
+    4300374: pPrism7
+    4300376: pPrism9
+    4300378: pPrism11
+    4300380: pPrism13
+    4300382: pPrism15
+    4300384: pPrism17
+    4300386: pPrism19
+    4300388: pPrism21
+    4300390: pPrism22
+    4300392: pPrism23
+    4300394: pPrism24
+    4300396: pPrism25
+    4300398: pPrism26
+    4300400: pPrism27
+    4300402: pPrism28
+    4300404: pPrism29
+    4300406: pPrism30
+    4300408: pCylinder7
+    4300410: pCylinder6
+    4300412: pPrism5
+    4300414: pPrism7
+    4300416: pPrism9
+    4300418: pPrism11
+    4300420: pPrism13
+    4300422: pPrism15
+    4300424: pPrism17
+    4300426: pPrism19
+    4300428: pPrism21
+    4300430: pPrism5
+    4300432: pPrism7
+    4300434: pPrism9
+    4300436: pPrism11
+    4300438: pPrism13
+    4300440: pPrism15
+    4300442: pPrism17
+    4300444: pPrism19
+    4300446: pPrism21
+    4300448: pCylinder6
+    4300450: pPrism5
+    4300452: pPrism7
+    4300454: pPrism9
+    4300456: pPrism11
+    4300458: pPrism13
+    4300460: pPrism15
+    4300462: pPrism17
+    4300464: pPrism19
+    4300466: pPrism21
+    4300468: pPrism5
+    4300470: pPrism7
+    4300472: pPrism9
+    4300474: pPrism11
+    4300476: pPrism13
+    4300478: pPrism15
+    4300480: pPrism17
+    4300482: pPrism19
+    4300484: pPrism21
+    4300486: pCylinder6
+    4300488: pPrism5
+    4300490: pPrism7
+    4300492: pPrism9
+    4300494: pPrism11
+    4300496: pPrism13
+    4300498: pPrism15
+    4300500: pPrism17
+    4300502: pPrism19
+    4300504: pPrism21
+    4300506: pPrism5
+    4300508: pPrism7
+    4300510: pPrism9
+    4300512: pPrism11
+    4300514: pPrism13
+    4300516: pPrism15
+    4300518: pPrism17
+    4300520: pPrism19
+    4300522: pPrism21
+    4300524: pCylinder6
+    4300526: pPrism5
+    4300528: pPrism7
+    4300530: pPrism9
+    4300532: pPrism11
+    4300534: pPrism13
+    4300536: pPrism15
+    4300538: pPrism17
+    4300540: pPrism19
+    4300542: pPrism21
+    4300544: pPrism5
+    4300546: pPrism7
+    4300548: pPrism9
+    4300550: pPrism11
+    4300552: pPrism13
+    4300554: pPrism15
+    4300556: pPrism17
+    4300558: pPrism19
+    4300560: pPrism21
+    4300562: pCylinder6
+    4300564: pPrism5
+    4300566: pPrism7
+    4300568: pPrism9
+    4300570: pPrism11
+    4300572: pPrism13
+    4300574: pPrism15
+    4300576: pPrism17
+    4300578: pPrism19
+    4300580: pPrism21
+    4300582: pPrism5
+    4300584: pPrism7
+    4300586: pPrism9
+    4300588: pPrism11
+    4300590: pPrism13
+    4300592: pPrism15
+    4300594: pPrism17
+    4300596: pPrism19
+    4300598: pPrism21
+    4300600: pCylinder6
+    4300602: pPrism5
+    4300604: pPrism7
+    4300606: pPrism9
+    4300608: pPrism11
+    4300610: pPrism13
+    4300612: pPrism15
+    4300614: pPrism17
+    4300616: pPrism19
+    4300618: pPrism21
+    4300620: pPrism5
+    4300622: pPrism7
+    4300624: pPrism9
+    4300626: pPrism11
+    4300628: pPrism13
+    4300630: pPrism15
+    4300632: pPrism17
+    4300634: pPrism19
+    4300636: pPrism21
+    4300638: pCylinder6
+    4300640: pPrism5
+    4300642: pPrism7
+    4300644: pPrism9
+    4300646: pPrism11
+    4300648: pPrism13
+    4300650: pPrism15
+    4300652: pPrism17
+    4300654: pPrism19
+    4300656: pPrism21
+    4300658: pPrism5
+    4300660: pPrism7
+    4300662: pPrism9
+    4300664: pPrism11
+    4300666: pPrism13
+    4300668: pPrism15
+    4300670: pPrism17
+    4300672: pPrism19
+    4300674: pPrism21
+    4300676: pCylinder6
+    4300678: pPrism5
+    4300680: pPrism7
+    4300682: pPrism9
+    4300684: pPrism11
+    4300686: pPrism13
+    4300688: pPrism15
+    4300690: pPrism17
+    4300692: pPrism19
+    4300694: pPrism21
+    4300696: pPrism21
+    4300698: pPrism19
+    4300700: pPrism17
+    4300702: pPrism15
+    4300704: pPrism13
+    4300706: pPrism11
+    4300708: pPrism9
+    4300710: pPrism7
+    4300712: pPrism5
+    4300714: pCube1
+    4300716: pPrism1439
+    4300718: namlu
+    4300720: polySurface3
+    4300722: polySurface2
+    4300724: polySurface4
+    4300726: pCylinder1
+    4300728: pPrism1
+    4300730: pCylinder2
+    4300732: pPipe1
+    4300734: pPipe3
+    4300736: pPipe4
+    4300738: pPipe5
+    4300740: pCube8
+    4300742: pCube9
+    4300744: pCube10
+    4300746: pCylinder9
+    4300748: pPrism32
+    4300750: pCube5
+    4300752: pPrism34
+    4300754: pPrism33
+    4300756: pCube4
+    4300758: pPrism31
+    4300760: pPipe2
+    4300762: pCube3
+    4300764: pCube34
+    4300766: pCube33
+    4300768: pCube32
+    4300770: pCube31
+    4300772: pCube30
+    4300774: pCube29
+    4300776: pCube28
+    4300778: pCube27
+    4300780: pCube26
+    4300782: pCube43
+    4300784: pCube42
+    4300786: pCube41
+    4300788: pCube40
+    4300790: pCube39
+    4300792: pCube38
+    4300794: pCube37
+    4300796: pCube36
+    4300798: pCube35
+    4300800: pCylinder10
+    4300802: pCylinder11
+    4300804: pCylinder30
+    4300806: pCube236
+    4300808: pPipe6
+    4300810: pCylinder31
+    4300812: MASH_ReproMesh_MeshPart0
+    4300814: MASH_ReproMesh_MeshPart1
+    4300816: MASH2_ReproMesh_MeshPart0
+    4300818: MASH2_ReproMesh_MeshPart1
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body1
+    second: {fileID: 2100000, guid: ed6cccaa7743751429fbbba54f8f2fa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: e53974d01609ce7479e3882d169390e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun
+    second: {fileID: 2100000, guid: 1db01dcf975e74141ab4802b79c7cb0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 7158e701602b36849a656de1d7873dff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mainbody
+    second: {fileID: 2100000, guid: fad340f51e1e99647b5228cde614fc06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palet
+    second: {fileID: 2100000, guid: c4ddf834e18717c4d80bccd607bc00ef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: backpart
+        weight: 1
+      - path: backpart/pCube12
+        weight: 1
+      - path: backpart/pCube13
+        weight: 1
+      - path: backpart/pCube14
+        weight: 1
+      - path: backpart/pCube15
+        weight: 1
+      - path: backpart/pCube16
+        weight: 1
+      - path: backpart/pCube17
+        weight: 1
+      - path: backpart/pCube18
+        weight: 1
+      - path: backpart/pCube19
+        weight: 1
+      - path: backpart/pCube20
+        weight: 1
+      - path: backpart/pCube21
+        weight: 1
+      - path: backpart/pCube22
+        weight: 1
+      - path: backpart/pCube23
+        weight: 1
+      - path: backpart/pCube24
+        weight: 1
+      - path: backpart/pCylinder15
+        weight: 1
+      - path: backpart/pCylinder29
+        weight: 1
+      - path: MASH2_ReproMesh
+        weight: 1
+      - path: MASH2_ReproMesh/MASH2_ReproMesh_MeshPart0
+        weight: 1
+      - path: MASH2_ReproMesh/MASH2_ReproMesh_MeshPart1
+        weight: 1
+      - path: MASH_ReproMesh
+        weight: 1
+      - path: MASH_ReproMesh/MASH_ReproMesh_MeshPart0
+        weight: 1
+      - path: MASH_ReproMesh/MASH_ReproMesh_MeshPart1
+        weight: 1
+      - path: middle
+        weight: 1
+      - path: middle/pCube1
+        weight: 1
+      - path: middle/pPrism1439
+        weight: 1
+      - path: TOP
+        weight: 1
+      - path: TOP/group142
+        weight: 1
+      - path: TOP/group142/pCube236
+        weight: 1
+      - path: TOP/group142/pCylinder31
+        weight: 1
+      - path: TOP/group142/pPipe6
+        weight: 1
+      - path: TOP/pCylinder30
+        weight: 1
+      - path: TOP/toppart
+        weight: 1
+      - path: TOP/toppart/group141
+        weight: 1
+      - path: TOP/toppart/group141/group139
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube35
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube36
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube37
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube38
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube39
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube40
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube41
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube42
+        weight: 1
+      - path: TOP/toppart/group141/group139/group140/pCube43
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube26
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube27
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube28
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube29
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube30
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube31
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube32
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube33
+        weight: 1
+      - path: TOP/toppart/group141/group139/pCube34
+        weight: 1
+      - path: TOP/toppart/group141/pCylinder10
+        weight: 1
+      - path: TOP/toppart/group141/pCylinder11
+        weight: 1
+      - path: TOP/toppart/toppart 1
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pCube3
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pCube4
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pCube5
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pPipe2
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pPrism31
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pPrism32
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pPrism33
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/mgown/pPrism34
+        weight: 1
+      - path: TOP/toppart/toppart 1/mgfull/pCylinder9
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/namlu
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pCube8
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pCube9
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pCube10
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pCylinder1
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pCylinder2
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/polySurface2
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/polySurface3
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/polySurface4
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pPipe1
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pPipe3
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pPipe4
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pPipe5
+        weight: 1
+      - path: TOP/toppart/toppart 1/top_part/pPrism1
+        weight: 1
+      - path: wheelgroup_ledt
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism5 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism7 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism9 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism11 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism13 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism15 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism17 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism19 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism21 2"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism22"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism23"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism24"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism25"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism26"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism27"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism28"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism29"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/group8/pPrism30"
+        weight: 1
+      - path: "wheelgroup_ledt/disl\u0131_sag1/pCylinder7"
+        weight: 1
+      - path: wheelgroup_ledt/wheel1
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism5 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism7 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism9 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism11 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism13 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism15 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism17 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism19 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group5/pPrism21 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism5 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism7 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism9 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism11 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism13 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism15 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism17 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism19 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/group6/pPrism21 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel1/pCylinder6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism5 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism7 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism9 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism11 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism13 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism15 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism17 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism19 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group5 1/pPrism21 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism5 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism7 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism9 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism11 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism13 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism15 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism17 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism19 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/group6 1/pPrism21 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel2/pCylinder6 1
+        weight: 1
+      - path: wheelgroup_ledt/wheel3
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism5 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism7 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism9 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism11 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism13 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism15 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism17 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism19 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group5 2/pPrism21 7
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism5 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism7 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism9 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism11 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism13 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism15 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism17 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism19 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/group6 2/pPrism21 8
+        weight: 1
+      - path: wheelgroup_ledt/wheel3/pCylinder6 2
+        weight: 1
+      - path: wheelgroup_ledt/wheel4
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism5 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism7 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism9 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism11 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism13 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism15 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism17 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism19 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group5 3/pPrism21 9
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism5 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism7 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism9 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism11 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism13 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism15 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism17 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism19 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/group6 3/pPrism21 10
+        weight: 1
+      - path: wheelgroup_ledt/wheel4/pCylinder6 3
+        weight: 1
+      - path: wheelgroup_ledt/wheel5
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism5 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism7 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism9 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism11 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism13 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism15 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism17 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism19 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group5 4/pPrism21 11
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism5 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism7 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism9 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism11 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism13 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism15 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism17 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism19 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/group6 4/pPrism21 12
+        weight: 1
+      - path: wheelgroup_ledt/wheel5/pCylinder6 4
+        weight: 1
+      - path: wheelgroup_ledt/wheel7
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism5
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism7
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism9
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism11
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism13
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism15
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism17
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism19
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/pPrism21
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism5 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism7 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism9 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism11 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism13 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism15 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism17 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism19 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/group5 14/pPrism21 32
+        weight: 1
+      - path: wheelgroup_ledt/wheel7/wheel7 2/pCylinder6 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism5 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism7 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism9 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism11 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism13 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism15 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism17 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism19 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group5 5/pPrism21 13
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism5 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism7 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism9 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism11 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism13 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism15 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism17 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism19 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/group6 5/pPrism21 14
+        weight: 1
+      - path: wheelgroup_ledt/wheel8/pCylinder6 5
+        weight: 1
+      - path: wheelgroup_ledt/wheel9
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism5 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism7 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism9 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism11 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism13 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism15 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism17 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism19 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group5 6/pPrism21 15
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism5 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism7 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism9 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism11 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism13 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism15 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism17 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism19 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/group6 6/pPrism21 16
+        weight: 1
+      - path: wheelgroup_ledt/wheel9/pCylinder6 6
+        weight: 1
+      - path: wheelgroup_right
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism5 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism7 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism9 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism11 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism13 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism15 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism17 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism19 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism21 17"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism22 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism23 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism24 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism25 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism26 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism27 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism28 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism29 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/group8 1/pPrism30 1"
+        weight: 1
+      - path: "wheelgroup_right/disl\u0131_sag1 1/pCylinder7 1"
+        weight: 1
+      - path: wheelgroup_right/wheel1 1
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism5 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism7 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism9 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism11 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism13 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism15 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism17 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism19 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group5 7/pPrism21 18
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism5 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism7 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism9 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism11 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism13 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism15 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism17 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism19 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/group6 7/pPrism21 19
+        weight: 1
+      - path: wheelgroup_right/wheel1 1/pCylinder6 7
+        weight: 1
+      - path: wheelgroup_right/wheel2 1
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism5 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism7 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism9 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism11 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism13 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism15 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism17 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism19 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group5 8/pPrism21 20
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism5 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism7 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism9 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism11 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism13 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism15 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism17 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism19 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/group6 8/pPrism21 21
+        weight: 1
+      - path: wheelgroup_right/wheel2 1/pCylinder6 8
+        weight: 1
+      - path: wheelgroup_right/wheel3 1
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism5 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism7 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism9 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism11 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism13 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism15 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism17 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism19 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group5 9/pPrism21 22
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism5 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism7 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism9 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism11 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism13 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism15 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism17 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism19 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/group6 9/pPrism21 23
+        weight: 1
+      - path: wheelgroup_right/wheel3 1/pCylinder6 9
+        weight: 1
+      - path: wheelgroup_right/wheel4 1
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism5 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism7 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism9 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism11 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism13 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism15 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism17 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism19 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group5 10/pPrism21 24
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism5 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism7 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism9 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism11 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism13 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism15 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism17 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism19 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/group6 10/pPrism21 25
+        weight: 1
+      - path: wheelgroup_right/wheel4 1/pCylinder6 10
+        weight: 1
+      - path: wheelgroup_right/wheel5 1
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism5 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism7 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism9 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism11 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism13 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism15 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism17 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism19 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group5 11/pPrism21 26
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism5 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism7 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism9 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism11 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism13 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism15 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism17 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism19 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/group6 11/pPrism21 27
+        weight: 1
+      - path: wheelgroup_right/wheel5 1/pCylinder6 11
+        weight: 1
+      - path: wheelgroup_right/wheel7 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism5 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism7 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism9 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism11 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism13 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism15 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism17 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism19 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/pPrism21 1
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism5 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism7 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism9 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism11 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism13 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism15 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism17 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism19 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/group5 15/pPrism21 33
+        weight: 1
+      - path: wheelgroup_right/wheel7 1/wheel7 3/pCylinder6 15
+        weight: 1
+      - path: wheelgroup_right/wheel8 1
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism5 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism7 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism9 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism11 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism13 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism15 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism17 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism19 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group5 12/pPrism21 28
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism5 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism7 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism9 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism11 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism13 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism15 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism17 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism19 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/group6 12/pPrism21 29
+        weight: 1
+      - path: wheelgroup_right/wheel8 1/pCylinder6 12
+        weight: 1
+      - path: wheelgroup_right/wheel9 1
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism5 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism7 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism9 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism11 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism13 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism15 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism17 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism19 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group5 13/pPrism21 30
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism5 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism7 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism9 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism11 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism13 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism15 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism17 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism19 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/group6 13/pPrism21 31
+        weight: 1
+      - path: wheelgroup_right/wheel9 1/pCylinder6 13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.5
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
